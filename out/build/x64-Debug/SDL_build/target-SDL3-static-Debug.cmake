@@ -1,3 +1,0 @@
-set_property(TARGET "SDL3::SDL3-static"
-  PROPERTY IMPORTED_CXX_MODULES_DEBUG
-)

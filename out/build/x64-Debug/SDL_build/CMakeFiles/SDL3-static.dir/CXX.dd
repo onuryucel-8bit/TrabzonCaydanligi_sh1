@@ -1,9 +1,0 @@
-ninja_dyndep_version = 1.0
-build SDL_build\CMakeFiles\SDL3-static.dir\src\core\windows\SDL_gameinput.cpp.obj: dyndep
-
-build SDL_build\CMakeFiles\SDL3-static.dir\src\core\windows\pch_cpp.cpp.obj: dyndep
-
-build SDL_build\CMakeFiles\SDL3-static.dir\src\video\windows\SDL_windowsgameinput.cpp.obj: dyndep
-
-build SDL_build\CMakeFiles\SDL3-static.dir\src\joystick\gdk\SDL_gameinputjoystick.cpp.obj: dyndep
-
