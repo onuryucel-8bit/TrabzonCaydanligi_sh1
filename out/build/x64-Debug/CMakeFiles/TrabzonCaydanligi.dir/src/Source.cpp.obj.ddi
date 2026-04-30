@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\TrabzonCaydanligi.dir\\src\\Source.cpp.obj",
+            "outputs": [
+                "D:\\ProgrammingProjects\\C++\\TrabzonCaydanligi_sh1\\out\\build\\x64-Debug\\vc140.pdb",
+                "CMakeFiles\\TrabzonCaydanligi.dir\\src\\Source.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}
