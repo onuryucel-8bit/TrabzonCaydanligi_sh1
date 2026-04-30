@@ -109,8 +109,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-1k8vcs"
-      binary: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-1k8vcs"
+      source: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-fmqg6l"
+      binary: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-fmqg6l"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
@@ -123,11 +123,11 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-1k8vcs'
+        Change Dir: 'D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-fmqg6l'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_6f0ad
-        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS  /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_6f0ad.dir\\CMakeCCompilerABI.c.obj /FdCMakeFiles\\cmTC_6f0ad.dir\\ /FS -c "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.31\\Modules\\CMakeCCompilerABI.c"
-        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_6f0ad.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_6f0ad.dir\\CMakeCCompilerABI.c.obj  /out:cmTC_6f0ad.exe /implib:cmTC_6f0ad.lib /pdb:cmTC_6f0ad.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_bd092
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS  /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_bd092.dir\\CMakeCCompilerABI.c.obj /FdCMakeFiles\\cmTC_bd092.dir\\ /FS -c "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.31\\Modules\\CMakeCCompilerABI.c"
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_bd092.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_bd092.dir\\CMakeCCompilerABI.c.obj  /out:cmTC_bd092.exe /implib:cmTC_bd092.lib /pdb:cmTC_bd092.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
   -
@@ -167,8 +167,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-say8wa"
-      binary: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-say8wa"
+      source: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-hf1ctw"
+      binary: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-hf1ctw"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
@@ -182,11 +182,11 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-say8wa'
+        Change Dir: 'D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-hf1ctw'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_fa849
-        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_fa849.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_fa849.dir\\ /FS -c "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.31\\Modules\\CMakeCXXCompilerABI.cpp"
-        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_fa849.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_fa849.dir\\CMakeCXXCompilerABI.cpp.obj  /out:cmTC_fa849.exe /implib:cmTC_fa849.lib /pdb:cmTC_fa849.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_11e7b
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_11e7b.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_11e7b.dir\\ /FS -c "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.31\\Modules\\CMakeCXXCompilerABI.cpp"
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_11e7b.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_11e7b.dir\\CMakeCXXCompilerABI.cpp.obj  /out:cmTC_11e7b.exe /implib:cmTC_11e7b.lib /pdb:cmTC_11e7b.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
   -
@@ -220,8 +220,8 @@ events:
   -
     kind: "try_compile-v1"
     backtrace:
-      - "libsLocal/SDL3/cmake/sdlcpu.cmake:95 (try_compile)"
-      - "libsLocal/SDL3/CMakeLists.txt:83 (SDL_DetectTargetCPUArchitectures)"
+      - "libs/SDL3/cmake/sdlcpu.cmake:95 (try_compile)"
+      - "libs/SDL3/CMakeLists.txt:83 (SDL_DetectTargetCPUArchitectures)"
     directories:
       source: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/SDL_build/CMakeFiles/CMakeTmp/SDL_detect_arch/CMakeFiles/CMakeTmp"
       binary: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/SDL_build/CMakeFiles/CMakeTmp/SDL_detect_arch/CMakeFiles/CMakeTmp"
@@ -229,7 +229,7 @@ events:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
-      CMAKE_MODULE_PATH: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/libsLocal/SDL3/cmake"
+      CMAKE_MODULE_PATH: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/libs/SDL3/cmake"
       VCPKG_INSTALLED_DIR: "C:/vcpkg/installed"
       VCPKG_PREFER_SYSTEM_LIBS: "OFF"
       VCPKG_TARGET_TRIPLET: "x64-windows"
@@ -240,9 +240,9 @@ events:
       stdout: |
         Change Dir: 'D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/SDL_build/CMakeFiles/CMakeTmp/SDL_detect_arch/CMakeFiles/CMakeTmp'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_ad7bb
-        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS  /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_ad7bb.dir\\SDL_detect_arch.c.obj /FdCMakeFiles\\cmTC_ad7bb.dir\\cmTC_ad7bb.pdb /FS -c D:\\ProgrammingProjects\\C++\\TrabzonCaydanligi_sh1\\out\\build\\x64-Debug\\SDL_build\\CMakeFiles\\CMakeTmp\\SDL_detect_arch.c
-        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\lib.exe /nologo /machine:x64 /out:cmTC_ad7bb.lib CMakeFiles\\cmTC_ad7bb.dir\\SDL_detect_arch.c.obj && cd ."
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_24d28
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS  /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_24d28.dir\\SDL_detect_arch.c.obj /FdCMakeFiles\\cmTC_24d28.dir\\cmTC_24d28.pdb /FS -c D:\\ProgrammingProjects\\C++\\TrabzonCaydanligi_sh1\\out\\build\\x64-Debug\\SDL_build\\CMakeFiles\\CMakeTmp\\SDL_detect_arch.c
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\lib.exe /nologo /machine:x64 /out:cmTC_24d28.lib CMakeFiles\\cmTC_24d28.dir\\SDL_detect_arch.c.obj && cd ."
         
       exitCode: 0
   -
@@ -250,18 +250,18 @@ events:
     backtrace:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Internal/CheckSourceCompiles.cmake:108 (try_compile)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckCSourceCompiles.cmake:58 (cmake_check_source_compiles)"
-      - "libsLocal/SDL3/cmake/PreseedMSVCCache.cmake:3 (check_c_source_compiles)"
-      - "libsLocal/SDL3/CMakeLists.txt:434 (SDL_Preseed_CMakeCache)"
+      - "libs/SDL3/cmake/PreseedMSVCCache.cmake:3 (check_c_source_compiles)"
+      - "libs/SDL3/CMakeLists.txt:434 (SDL_Preseed_CMakeCache)"
     checks:
       - "Performing Test CAN_PRESEED"
     directories:
-      source: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-7pv78b"
-      binary: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-7pv78b"
+      source: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-juy0pr"
+      binary: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-juy0pr"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
-      CMAKE_MODULE_PATH: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/libsLocal/SDL3/cmake"
+      CMAKE_MODULE_PATH: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/libs/SDL3/cmake"
       VCPKG_INSTALLED_DIR: "C:/vcpkg/installed"
       VCPKG_PREFER_SYSTEM_LIBS: "OFF"
       VCPKG_TARGET_TRIPLET: "x64-windows"
@@ -270,11 +270,11 @@ events:
       variable: "CAN_PRESEED"
       cached: true
       stdout: |
-        Change Dir: 'D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-7pv78b'
+        Change Dir: 'D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-juy0pr'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_491a3
-        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo -DCAN_PRESEED  /DWIN32 /D_WINDOWS  -D_GNU_SOURCE=1 /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_491a3.dir\\src.c.obj /FdCMakeFiles\\cmTC_491a3.dir\\ /FS -c D:\\ProgrammingProjects\\C++\\TrabzonCaydanligi_sh1\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-7pv78b\\src.c
-        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_491a3.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_491a3.dir\\src.c.obj  /out:cmTC_491a3.exe /implib:cmTC_491a3.lib /pdb:cmTC_491a3.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_8c6ac
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo -DCAN_PRESEED  /DWIN32 /D_WINDOWS  -D_GNU_SOURCE=1 /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_8c6ac.dir\\src.c.obj /FdCMakeFiles\\cmTC_8c6ac.dir\\ /FS -c D:\\ProgrammingProjects\\C++\\TrabzonCaydanligi_sh1\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-juy0pr\\src.c
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_8c6ac.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_8c6ac.dir\\src.c.obj  /out:cmTC_8c6ac.exe /implib:cmTC_8c6ac.lib /pdb:cmTC_8c6ac.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
   -
@@ -282,18 +282,18 @@ events:
     backtrace:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Internal/CheckSourceCompiles.cmake:108 (try_compile)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckCSourceCompiles.cmake:58 (cmake_check_source_compiles)"
-      - "libsLocal/SDL3/cmake/sdlcompilers.cmake:180 (check_c_source_compiles)"
-      - "libsLocal/SDL3/CMakeLists.txt:706 (check_x86_source_compiles)"
+      - "libs/SDL3/cmake/sdlcompilers.cmake:180 (check_c_source_compiles)"
+      - "libs/SDL3/CMakeLists.txt:706 (check_x86_source_compiles)"
     checks:
       - "Performing Test COMPILER_SUPPORTS_MMX"
     directories:
-      source: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-ex1a2x"
-      binary: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-ex1a2x"
+      source: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-zsxb4y"
+      binary: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-zsxb4y"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
-      CMAKE_MODULE_PATH: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/libsLocal/SDL3/cmake"
+      CMAKE_MODULE_PATH: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/libs/SDL3/cmake"
       VCPKG_INSTALLED_DIR: "C:/vcpkg/installed"
       VCPKG_PREFER_SYSTEM_LIBS: "OFF"
       VCPKG_TARGET_TRIPLET: "x64-windows"
@@ -302,13 +302,13 @@ events:
       variable: "COMPILER_SUPPORTS_MMX"
       cached: true
       stdout: |
-        Change Dir: 'D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-ex1a2x'
+        Change Dir: 'D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-zsxb4y'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_0af02
-        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo -DCOMPILER_SUPPORTS_MMX  /DWIN32 /D_WINDOWS  -D_GNU_SOURCE=1 /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_0af02.dir\\src.c.obj /FdCMakeFiles\\cmTC_0af02.dir\\ /FS -c D:\\ProgrammingProjects\\C++\\TrabzonCaydanligi_sh1\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ex1a2x\\src.c
-        FAILED: CMakeFiles/cmTC_0af02.dir/src.c.obj 
-        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo -DCOMPILER_SUPPORTS_MMX  /DWIN32 /D_WINDOWS  -D_GNU_SOURCE=1 /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_0af02.dir\\src.c.obj /FdCMakeFiles\\cmTC_0af02.dir\\ /FS -c D:\\ProgrammingProjects\\C++\\TrabzonCaydanligi_sh1\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ex1a2x\\src.c
-        D:\\ProgrammingProjects\\C++\\TrabzonCaydanligi_sh1\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ex1a2x\\src.c(15): error C2440: '=': cannot convert from 'int' to '__m64'
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_5484f
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo -DCOMPILER_SUPPORTS_MMX  /DWIN32 /D_WINDOWS  -D_GNU_SOURCE=1 /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_5484f.dir\\src.c.obj /FdCMakeFiles\\cmTC_5484f.dir\\ /FS -c D:\\ProgrammingProjects\\C++\\TrabzonCaydanligi_sh1\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-zsxb4y\\src.c
+        FAILED: CMakeFiles/cmTC_5484f.dir/src.c.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo -DCOMPILER_SUPPORTS_MMX  /DWIN32 /D_WINDOWS  -D_GNU_SOURCE=1 /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_5484f.dir\\src.c.obj /FdCMakeFiles\\cmTC_5484f.dir\\ /FS -c D:\\ProgrammingProjects\\C++\\TrabzonCaydanligi_sh1\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-zsxb4y\\src.c
+        D:\\ProgrammingProjects\\C++\\TrabzonCaydanligi_sh1\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-zsxb4y\\src.c(15): error C2440: '=': cannot convert from 'int' to '__m64'
         ninja: build stopped: subcommand failed.
         
       exitCode: 1
@@ -317,18 +317,18 @@ events:
     backtrace:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Internal/CheckSourceCompiles.cmake:108 (try_compile)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckCSourceCompiles.cmake:58 (cmake_check_source_compiles)"
-      - "libsLocal/SDL3/cmake/sdlcompilers.cmake:180 (check_c_source_compiles)"
-      - "libsLocal/SDL3/CMakeLists.txt:727 (check_x86_source_compiles)"
+      - "libs/SDL3/cmake/sdlcompilers.cmake:180 (check_c_source_compiles)"
+      - "libs/SDL3/CMakeLists.txt:727 (check_x86_source_compiles)"
     checks:
       - "Performing Test COMPILER_SUPPORTS_SSE"
     directories:
-      source: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-m5ew8o"
-      binary: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-m5ew8o"
+      source: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-rv5va3"
+      binary: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-rv5va3"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
-      CMAKE_MODULE_PATH: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/libsLocal/SDL3/cmake"
+      CMAKE_MODULE_PATH: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/libs/SDL3/cmake"
       VCPKG_INSTALLED_DIR: "C:/vcpkg/installed"
       VCPKG_PREFER_SYSTEM_LIBS: "OFF"
       VCPKG_TARGET_TRIPLET: "x64-windows"
@@ -337,11 +337,11 @@ events:
       variable: "COMPILER_SUPPORTS_SSE"
       cached: true
       stdout: |
-        Change Dir: 'D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-m5ew8o'
+        Change Dir: 'D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-rv5va3'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_216ea
-        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo -DCOMPILER_SUPPORTS_SSE  /DWIN32 /D_WINDOWS  -D_GNU_SOURCE=1 /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_216ea.dir\\src.c.obj /FdCMakeFiles\\cmTC_216ea.dir\\ /FS -c D:\\ProgrammingProjects\\C++\\TrabzonCaydanligi_sh1\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-m5ew8o\\src.c
-        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_216ea.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_216ea.dir\\src.c.obj  /out:cmTC_216ea.exe /implib:cmTC_216ea.lib /pdb:cmTC_216ea.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_9de44
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo -DCOMPILER_SUPPORTS_SSE  /DWIN32 /D_WINDOWS  -D_GNU_SOURCE=1 /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_9de44.dir\\src.c.obj /FdCMakeFiles\\cmTC_9de44.dir\\ /FS -c D:\\ProgrammingProjects\\C++\\TrabzonCaydanligi_sh1\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-rv5va3\\src.c
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_9de44.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_9de44.dir\\src.c.obj  /out:cmTC_9de44.exe /implib:cmTC_9de44.lib /pdb:cmTC_9de44.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
   -
@@ -349,18 +349,18 @@ events:
     backtrace:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Internal/CheckSourceCompiles.cmake:108 (try_compile)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckCSourceCompiles.cmake:58 (cmake_check_source_compiles)"
-      - "libsLocal/SDL3/cmake/sdlcompilers.cmake:180 (check_c_source_compiles)"
-      - "libsLocal/SDL3/CMakeLists.txt:748 (check_x86_source_compiles)"
+      - "libs/SDL3/cmake/sdlcompilers.cmake:180 (check_c_source_compiles)"
+      - "libs/SDL3/CMakeLists.txt:748 (check_x86_source_compiles)"
     checks:
       - "Performing Test COMPILER_SUPPORTS_SSE2"
     directories:
-      source: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-xmorc0"
-      binary: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-xmorc0"
+      source: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-vdr2ta"
+      binary: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-vdr2ta"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
-      CMAKE_MODULE_PATH: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/libsLocal/SDL3/cmake"
+      CMAKE_MODULE_PATH: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/libs/SDL3/cmake"
       VCPKG_INSTALLED_DIR: "C:/vcpkg/installed"
       VCPKG_PREFER_SYSTEM_LIBS: "OFF"
       VCPKG_TARGET_TRIPLET: "x64-windows"
@@ -369,11 +369,11 @@ events:
       variable: "COMPILER_SUPPORTS_SSE2"
       cached: true
       stdout: |
-        Change Dir: 'D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-xmorc0'
+        Change Dir: 'D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-vdr2ta'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_5c9cd
-        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo -DCOMPILER_SUPPORTS_SSE2  /DWIN32 /D_WINDOWS  -D_GNU_SOURCE=1 /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_5c9cd.dir\\src.c.obj /FdCMakeFiles\\cmTC_5c9cd.dir\\ /FS -c D:\\ProgrammingProjects\\C++\\TrabzonCaydanligi_sh1\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-xmorc0\\src.c
-        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_5c9cd.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_5c9cd.dir\\src.c.obj  /out:cmTC_5c9cd.exe /implib:cmTC_5c9cd.lib /pdb:cmTC_5c9cd.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_122d9
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo -DCOMPILER_SUPPORTS_SSE2  /DWIN32 /D_WINDOWS  -D_GNU_SOURCE=1 /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_122d9.dir\\src.c.obj /FdCMakeFiles\\cmTC_122d9.dir\\ /FS -c D:\\ProgrammingProjects\\C++\\TrabzonCaydanligi_sh1\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-vdr2ta\\src.c
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_122d9.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_122d9.dir\\src.c.obj  /out:cmTC_122d9.exe /implib:cmTC_122d9.lib /pdb:cmTC_122d9.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
   -
@@ -381,18 +381,18 @@ events:
     backtrace:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Internal/CheckSourceCompiles.cmake:108 (try_compile)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckCSourceCompiles.cmake:58 (cmake_check_source_compiles)"
-      - "libsLocal/SDL3/cmake/sdlcompilers.cmake:180 (check_c_source_compiles)"
-      - "libsLocal/SDL3/CMakeLists.txt:769 (check_x86_source_compiles)"
+      - "libs/SDL3/cmake/sdlcompilers.cmake:180 (check_c_source_compiles)"
+      - "libs/SDL3/CMakeLists.txt:769 (check_x86_source_compiles)"
     checks:
       - "Performing Test COMPILER_SUPPORTS_SSE3"
     directories:
-      source: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-95j3e6"
-      binary: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-95j3e6"
+      source: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-c1wpec"
+      binary: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-c1wpec"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
-      CMAKE_MODULE_PATH: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/libsLocal/SDL3/cmake"
+      CMAKE_MODULE_PATH: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/libs/SDL3/cmake"
       VCPKG_INSTALLED_DIR: "C:/vcpkg/installed"
       VCPKG_PREFER_SYSTEM_LIBS: "OFF"
       VCPKG_TARGET_TRIPLET: "x64-windows"
@@ -401,11 +401,11 @@ events:
       variable: "COMPILER_SUPPORTS_SSE3"
       cached: true
       stdout: |
-        Change Dir: 'D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-95j3e6'
+        Change Dir: 'D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-c1wpec'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_ec4d7
-        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo -DCOMPILER_SUPPORTS_SSE3  /DWIN32 /D_WINDOWS  -D_GNU_SOURCE=1 /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_ec4d7.dir\\src.c.obj /FdCMakeFiles\\cmTC_ec4d7.dir\\ /FS -c D:\\ProgrammingProjects\\C++\\TrabzonCaydanligi_sh1\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-95j3e6\\src.c
-        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_ec4d7.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_ec4d7.dir\\src.c.obj  /out:cmTC_ec4d7.exe /implib:cmTC_ec4d7.lib /pdb:cmTC_ec4d7.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_f8c97
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo -DCOMPILER_SUPPORTS_SSE3  /DWIN32 /D_WINDOWS  -D_GNU_SOURCE=1 /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_f8c97.dir\\src.c.obj /FdCMakeFiles\\cmTC_f8c97.dir\\ /FS -c D:\\ProgrammingProjects\\C++\\TrabzonCaydanligi_sh1\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-c1wpec\\src.c
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_f8c97.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_f8c97.dir\\src.c.obj  /out:cmTC_f8c97.exe /implib:cmTC_f8c97.lib /pdb:cmTC_f8c97.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
   -
@@ -413,18 +413,18 @@ events:
     backtrace:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Internal/CheckSourceCompiles.cmake:108 (try_compile)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckCSourceCompiles.cmake:58 (cmake_check_source_compiles)"
-      - "libsLocal/SDL3/cmake/sdlcompilers.cmake:180 (check_c_source_compiles)"
-      - "libsLocal/SDL3/CMakeLists.txt:790 (check_x86_source_compiles)"
+      - "libs/SDL3/cmake/sdlcompilers.cmake:180 (check_c_source_compiles)"
+      - "libs/SDL3/CMakeLists.txt:790 (check_x86_source_compiles)"
     checks:
       - "Performing Test COMPILER_SUPPORTS_SSE4_1"
     directories:
-      source: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-lp1exg"
-      binary: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-lp1exg"
+      source: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-035r02"
+      binary: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-035r02"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
-      CMAKE_MODULE_PATH: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/libsLocal/SDL3/cmake"
+      CMAKE_MODULE_PATH: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/libs/SDL3/cmake"
       VCPKG_INSTALLED_DIR: "C:/vcpkg/installed"
       VCPKG_PREFER_SYSTEM_LIBS: "OFF"
       VCPKG_TARGET_TRIPLET: "x64-windows"
@@ -433,11 +433,11 @@ events:
       variable: "COMPILER_SUPPORTS_SSE4_1"
       cached: true
       stdout: |
-        Change Dir: 'D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-lp1exg'
+        Change Dir: 'D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-035r02'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_9af37
-        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo -DCOMPILER_SUPPORTS_SSE4_1  /DWIN32 /D_WINDOWS  -D_GNU_SOURCE=1 /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_9af37.dir\\src.c.obj /FdCMakeFiles\\cmTC_9af37.dir\\ /FS -c D:\\ProgrammingProjects\\C++\\TrabzonCaydanligi_sh1\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-lp1exg\\src.c
-        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_9af37.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_9af37.dir\\src.c.obj  /out:cmTC_9af37.exe /implib:cmTC_9af37.lib /pdb:cmTC_9af37.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_a0d23
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo -DCOMPILER_SUPPORTS_SSE4_1  /DWIN32 /D_WINDOWS  -D_GNU_SOURCE=1 /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_a0d23.dir\\src.c.obj /FdCMakeFiles\\cmTC_a0d23.dir\\ /FS -c D:\\ProgrammingProjects\\C++\\TrabzonCaydanligi_sh1\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-035r02\\src.c
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_a0d23.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_a0d23.dir\\src.c.obj  /out:cmTC_a0d23.exe /implib:cmTC_a0d23.lib /pdb:cmTC_a0d23.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
   -
@@ -445,18 +445,18 @@ events:
     backtrace:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Internal/CheckSourceCompiles.cmake:108 (try_compile)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckCSourceCompiles.cmake:58 (cmake_check_source_compiles)"
-      - "libsLocal/SDL3/cmake/sdlcompilers.cmake:180 (check_c_source_compiles)"
-      - "libsLocal/SDL3/CMakeLists.txt:811 (check_x86_source_compiles)"
+      - "libs/SDL3/cmake/sdlcompilers.cmake:180 (check_c_source_compiles)"
+      - "libs/SDL3/CMakeLists.txt:811 (check_x86_source_compiles)"
     checks:
       - "Performing Test COMPILER_SUPPORTS_SSE4_2"
     directories:
-      source: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-qiolc9"
-      binary: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-qiolc9"
+      source: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-c0bobm"
+      binary: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-c0bobm"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
-      CMAKE_MODULE_PATH: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/libsLocal/SDL3/cmake"
+      CMAKE_MODULE_PATH: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/libs/SDL3/cmake"
       VCPKG_INSTALLED_DIR: "C:/vcpkg/installed"
       VCPKG_PREFER_SYSTEM_LIBS: "OFF"
       VCPKG_TARGET_TRIPLET: "x64-windows"
@@ -465,11 +465,11 @@ events:
       variable: "COMPILER_SUPPORTS_SSE4_2"
       cached: true
       stdout: |
-        Change Dir: 'D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-qiolc9'
+        Change Dir: 'D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-c0bobm'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_e8560
-        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo -DCOMPILER_SUPPORTS_SSE4_2  /DWIN32 /D_WINDOWS  -D_GNU_SOURCE=1 /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_e8560.dir\\src.c.obj /FdCMakeFiles\\cmTC_e8560.dir\\ /FS -c D:\\ProgrammingProjects\\C++\\TrabzonCaydanligi_sh1\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-qiolc9\\src.c
-        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_e8560.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_e8560.dir\\src.c.obj  /out:cmTC_e8560.exe /implib:cmTC_e8560.lib /pdb:cmTC_e8560.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_b90ec
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo -DCOMPILER_SUPPORTS_SSE4_2  /DWIN32 /D_WINDOWS  -D_GNU_SOURCE=1 /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_b90ec.dir\\src.c.obj /FdCMakeFiles\\cmTC_b90ec.dir\\ /FS -c D:\\ProgrammingProjects\\C++\\TrabzonCaydanligi_sh1\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-c0bobm\\src.c
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_b90ec.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_b90ec.dir\\src.c.obj  /out:cmTC_b90ec.exe /implib:cmTC_b90ec.lib /pdb:cmTC_b90ec.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
   -
@@ -477,18 +477,18 @@ events:
     backtrace:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Internal/CheckSourceCompiles.cmake:108 (try_compile)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckCSourceCompiles.cmake:58 (cmake_check_source_compiles)"
-      - "libsLocal/SDL3/cmake/sdlcompilers.cmake:180 (check_c_source_compiles)"
-      - "libsLocal/SDL3/CMakeLists.txt:829 (check_x86_source_compiles)"
+      - "libs/SDL3/cmake/sdlcompilers.cmake:180 (check_c_source_compiles)"
+      - "libs/SDL3/CMakeLists.txt:829 (check_x86_source_compiles)"
     checks:
       - "Performing Test COMPILER_SUPPORTS_AVX"
     directories:
-      source: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-u4pwur"
-      binary: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-u4pwur"
+      source: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-ufd8iz"
+      binary: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-ufd8iz"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
-      CMAKE_MODULE_PATH: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/libsLocal/SDL3/cmake"
+      CMAKE_MODULE_PATH: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/libs/SDL3/cmake"
       VCPKG_INSTALLED_DIR: "C:/vcpkg/installed"
       VCPKG_PREFER_SYSTEM_LIBS: "OFF"
       VCPKG_TARGET_TRIPLET: "x64-windows"
@@ -497,11 +497,11 @@ events:
       variable: "COMPILER_SUPPORTS_AVX"
       cached: true
       stdout: |
-        Change Dir: 'D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-u4pwur'
+        Change Dir: 'D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-ufd8iz'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_aa189
-        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo -DCOMPILER_SUPPORTS_AVX  /DWIN32 /D_WINDOWS  -D_GNU_SOURCE=1 /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_aa189.dir\\src.c.obj /FdCMakeFiles\\cmTC_aa189.dir\\ /FS -c D:\\ProgrammingProjects\\C++\\TrabzonCaydanligi_sh1\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-u4pwur\\src.c
-        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_aa189.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_aa189.dir\\src.c.obj  /out:cmTC_aa189.exe /implib:cmTC_aa189.lib /pdb:cmTC_aa189.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_4e0df
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo -DCOMPILER_SUPPORTS_AVX  /DWIN32 /D_WINDOWS  -D_GNU_SOURCE=1 /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_4e0df.dir\\src.c.obj /FdCMakeFiles\\cmTC_4e0df.dir\\ /FS -c D:\\ProgrammingProjects\\C++\\TrabzonCaydanligi_sh1\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ufd8iz\\src.c
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_4e0df.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_4e0df.dir\\src.c.obj  /out:cmTC_4e0df.exe /implib:cmTC_4e0df.lib /pdb:cmTC_4e0df.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
   -
@@ -509,18 +509,18 @@ events:
     backtrace:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Internal/CheckSourceCompiles.cmake:108 (try_compile)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckCSourceCompiles.cmake:58 (cmake_check_source_compiles)"
-      - "libsLocal/SDL3/cmake/sdlcompilers.cmake:180 (check_c_source_compiles)"
-      - "libsLocal/SDL3/CMakeLists.txt:850 (check_x86_source_compiles)"
+      - "libs/SDL3/cmake/sdlcompilers.cmake:180 (check_c_source_compiles)"
+      - "libs/SDL3/CMakeLists.txt:850 (check_x86_source_compiles)"
     checks:
       - "Performing Test COMPILER_SUPPORTS_AVX2"
     directories:
-      source: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-91sg7y"
-      binary: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-91sg7y"
+      source: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-rq7sup"
+      binary: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-rq7sup"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
-      CMAKE_MODULE_PATH: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/libsLocal/SDL3/cmake"
+      CMAKE_MODULE_PATH: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/libs/SDL3/cmake"
       VCPKG_INSTALLED_DIR: "C:/vcpkg/installed"
       VCPKG_PREFER_SYSTEM_LIBS: "OFF"
       VCPKG_TARGET_TRIPLET: "x64-windows"
@@ -529,11 +529,11 @@ events:
       variable: "COMPILER_SUPPORTS_AVX2"
       cached: true
       stdout: |
-        Change Dir: 'D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-91sg7y'
+        Change Dir: 'D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-rq7sup'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_d46af
-        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo -DCOMPILER_SUPPORTS_AVX2  /DWIN32 /D_WINDOWS  -D_GNU_SOURCE=1 /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_d46af.dir\\src.c.obj /FdCMakeFiles\\cmTC_d46af.dir\\ /FS -c D:\\ProgrammingProjects\\C++\\TrabzonCaydanligi_sh1\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-91sg7y\\src.c
-        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_d46af.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_d46af.dir\\src.c.obj  /out:cmTC_d46af.exe /implib:cmTC_d46af.lib /pdb:cmTC_d46af.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_b17a2
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo -DCOMPILER_SUPPORTS_AVX2  /DWIN32 /D_WINDOWS  -D_GNU_SOURCE=1 /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_b17a2.dir\\src.c.obj /FdCMakeFiles\\cmTC_b17a2.dir\\ /FS -c D:\\ProgrammingProjects\\C++\\TrabzonCaydanligi_sh1\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-rq7sup\\src.c
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_b17a2.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_b17a2.dir\\src.c.obj  /out:cmTC_b17a2.exe /implib:cmTC_b17a2.lib /pdb:cmTC_b17a2.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
   -
@@ -541,18 +541,18 @@ events:
     backtrace:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Internal/CheckSourceCompiles.cmake:108 (try_compile)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckCSourceCompiles.cmake:58 (cmake_check_source_compiles)"
-      - "libsLocal/SDL3/cmake/sdlcompilers.cmake:180 (check_c_source_compiles)"
-      - "libsLocal/SDL3/CMakeLists.txt:871 (check_x86_source_compiles)"
+      - "libs/SDL3/cmake/sdlcompilers.cmake:180 (check_c_source_compiles)"
+      - "libs/SDL3/CMakeLists.txt:871 (check_x86_source_compiles)"
     checks:
       - "Performing Test COMPILER_SUPPORTS_AVX512F"
     directories:
-      source: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-so43nd"
-      binary: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-so43nd"
+      source: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-is3e8n"
+      binary: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-is3e8n"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
-      CMAKE_MODULE_PATH: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/libsLocal/SDL3/cmake"
+      CMAKE_MODULE_PATH: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/libs/SDL3/cmake"
       VCPKG_INSTALLED_DIR: "C:/vcpkg/installed"
       VCPKG_PREFER_SYSTEM_LIBS: "OFF"
       VCPKG_TARGET_TRIPLET: "x64-windows"
@@ -561,11 +561,11 @@ events:
       variable: "COMPILER_SUPPORTS_AVX512F"
       cached: true
       stdout: |
-        Change Dir: 'D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-so43nd'
+        Change Dir: 'D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-is3e8n'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_88485
-        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo -DCOMPILER_SUPPORTS_AVX512F  /DWIN32 /D_WINDOWS  -D_GNU_SOURCE=1 /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_88485.dir\\src.c.obj /FdCMakeFiles\\cmTC_88485.dir\\ /FS -c D:\\ProgrammingProjects\\C++\\TrabzonCaydanligi_sh1\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-so43nd\\src.c
-        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_88485.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_88485.dir\\src.c.obj  /out:cmTC_88485.exe /implib:cmTC_88485.lib /pdb:cmTC_88485.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_06967
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo -DCOMPILER_SUPPORTS_AVX512F  /DWIN32 /D_WINDOWS  -D_GNU_SOURCE=1 /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_06967.dir\\src.c.obj /FdCMakeFiles\\cmTC_06967.dir\\ /FS -c D:\\ProgrammingProjects\\C++\\TrabzonCaydanligi_sh1\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-is3e8n\\src.c
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_06967.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_06967.dir\\src.c.obj  /out:cmTC_06967.exe /implib:cmTC_06967.lib /pdb:cmTC_06967.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
   -
@@ -573,17 +573,17 @@ events:
     backtrace:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckSymbolExists.cmake:163 (try_compile)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckSymbolExists.cmake:68 (__CHECK_SYMBOL_EXISTS_IMPL)"
-      - "libsLocal/SDL3/CMakeLists.txt:1112 (check_symbol_exists)"
+      - "libs/SDL3/CMakeLists.txt:1112 (check_symbol_exists)"
     checks:
       - "Looking for _copysign"
     directories:
-      source: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-9ey5qs"
-      binary: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-9ey5qs"
+      source: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-f3koux"
+      binary: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-f3koux"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
-      CMAKE_MODULE_PATH: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/libsLocal/SDL3/cmake"
+      CMAKE_MODULE_PATH: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/libs/SDL3/cmake"
       VCPKG_INSTALLED_DIR: "C:/vcpkg/installed"
       VCPKG_PREFER_SYSTEM_LIBS: "OFF"
       VCPKG_TARGET_TRIPLET: "x64-windows"
@@ -592,11 +592,11 @@ events:
       variable: "LIBC_HAS__COPYSIGN"
       cached: true
       stdout: |
-        Change Dir: 'D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-9ey5qs'
+        Change Dir: 'D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-f3koux'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_5c341
-        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS  -D_GNU_SOURCE=1 /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_5c341.dir\\CheckSymbolExists.c.obj /FdCMakeFiles\\cmTC_5c341.dir\\ /FS -c D:\\ProgrammingProjects\\C++\\TrabzonCaydanligi_sh1\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-9ey5qs\\CheckSymbolExists.c
-        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_5c341.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_5c341.dir\\CheckSymbolExists.c.obj  /out:cmTC_5c341.exe /implib:cmTC_5c341.lib /pdb:cmTC_5c341.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_881a5
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS  -D_GNU_SOURCE=1 /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_881a5.dir\\CheckSymbolExists.c.obj /FdCMakeFiles\\cmTC_881a5.dir\\ /FS -c D:\\ProgrammingProjects\\C++\\TrabzonCaydanligi_sh1\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-f3koux\\CheckSymbolExists.c
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_881a5.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_881a5.dir\\CheckSymbolExists.c.obj  /out:cmTC_881a5.exe /implib:cmTC_881a5.lib /pdb:cmTC_881a5.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
   -
@@ -604,17 +604,17 @@ events:
     backtrace:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckSymbolExists.cmake:163 (try_compile)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckSymbolExists.cmake:68 (__CHECK_SYMBOL_EXISTS_IMPL)"
-      - "libsLocal/SDL3/CMakeLists.txt:1112 (check_symbol_exists)"
+      - "libs/SDL3/CMakeLists.txt:1112 (check_symbol_exists)"
     checks:
       - "Looking for _fseeki64"
     directories:
-      source: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-g8fbyk"
-      binary: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-g8fbyk"
+      source: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-k8dwts"
+      binary: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-k8dwts"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
-      CMAKE_MODULE_PATH: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/libsLocal/SDL3/cmake"
+      CMAKE_MODULE_PATH: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/libs/SDL3/cmake"
       VCPKG_INSTALLED_DIR: "C:/vcpkg/installed"
       VCPKG_PREFER_SYSTEM_LIBS: "OFF"
       VCPKG_TARGET_TRIPLET: "x64-windows"
@@ -623,11 +623,11 @@ events:
       variable: "LIBC_HAS__FSEEKI64"
       cached: true
       stdout: |
-        Change Dir: 'D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-g8fbyk'
+        Change Dir: 'D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-k8dwts'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_7dbc9
-        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS  -D_GNU_SOURCE=1 /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_7dbc9.dir\\CheckSymbolExists.c.obj /FdCMakeFiles\\cmTC_7dbc9.dir\\ /FS -c D:\\ProgrammingProjects\\C++\\TrabzonCaydanligi_sh1\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-g8fbyk\\CheckSymbolExists.c
-        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_7dbc9.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_7dbc9.dir\\CheckSymbolExists.c.obj  /out:cmTC_7dbc9.exe /implib:cmTC_7dbc9.lib /pdb:cmTC_7dbc9.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_d39bf
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS  -D_GNU_SOURCE=1 /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_d39bf.dir\\CheckSymbolExists.c.obj /FdCMakeFiles\\cmTC_d39bf.dir\\ /FS -c D:\\ProgrammingProjects\\C++\\TrabzonCaydanligi_sh1\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-k8dwts\\CheckSymbolExists.c
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_d39bf.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_d39bf.dir\\CheckSymbolExists.c.obj  /out:cmTC_d39bf.exe /implib:cmTC_d39bf.lib /pdb:cmTC_d39bf.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
   -
@@ -635,17 +635,17 @@ events:
     backtrace:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Internal/CheckSourceCompiles.cmake:108 (try_compile)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckCSourceCompiles.cmake:58 (cmake_check_source_compiles)"
-      - "libsLocal/SDL3/CMakeLists.txt:2238 (check_c_source_compiles)"
+      - "libs/SDL3/CMakeLists.txt:2238 (check_c_source_compiles)"
     checks:
       - "Performing Test HAVE_GAMEINPUT_H"
     directories:
-      source: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-d8xczw"
-      binary: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-d8xczw"
+      source: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-wergsy"
+      binary: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-wergsy"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
-      CMAKE_MODULE_PATH: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/libsLocal/SDL3/cmake"
+      CMAKE_MODULE_PATH: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/libs/SDL3/cmake"
       VCPKG_INSTALLED_DIR: "C:/vcpkg/installed"
       VCPKG_PREFER_SYSTEM_LIBS: "OFF"
       VCPKG_TARGET_TRIPLET: "x64-windows"
@@ -654,28 +654,28 @@ events:
       variable: "HAVE_GAMEINPUT_H"
       cached: true
       stdout: |
-        Change Dir: 'D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-d8xczw'
+        Change Dir: 'D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-wergsy'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_13345
-        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_GAMEINPUT_H  /DWIN32 /D_WINDOWS  -D_GNU_SOURCE=1 /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_13345.dir\\src.c.obj /FdCMakeFiles\\cmTC_13345.dir\\ /FS -c D:\\ProgrammingProjects\\C++\\TrabzonCaydanligi_sh1\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-d8xczw\\src.c
-        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_13345.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_13345.dir\\src.c.obj  /out:cmTC_13345.exe /implib:cmTC_13345.lib /pdb:cmTC_13345.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_b390d
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_GAMEINPUT_H  /DWIN32 /D_WINDOWS  -D_GNU_SOURCE=1 /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_b390d.dir\\src.c.obj /FdCMakeFiles\\cmTC_b390d.dir\\ /FS -c D:\\ProgrammingProjects\\C++\\TrabzonCaydanligi_sh1\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-wergsy\\src.c
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_b390d.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_b390d.dir\\src.c.obj  /out:cmTC_b390d.exe /implib:cmTC_b390d.lib /pdb:cmTC_b390d.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
   -
     kind: "try_compile-v1"
     backtrace:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckIncludeFile.cmake:99 (try_compile)"
-      - "libsLocal/SDL3/CMakeLists.txt:2244 (check_include_file)"
+      - "libs/SDL3/CMakeLists.txt:2244 (check_include_file)"
     checks:
       - "Looking for dxgi1_5.h"
     directories:
-      source: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-v58vn4"
-      binary: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-v58vn4"
+      source: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-opwue2"
+      binary: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-opwue2"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
-      CMAKE_MODULE_PATH: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/libsLocal/SDL3/cmake"
+      CMAKE_MODULE_PATH: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/libs/SDL3/cmake"
       VCPKG_INSTALLED_DIR: "C:/vcpkg/installed"
       VCPKG_PREFER_SYSTEM_LIBS: "OFF"
       VCPKG_TARGET_TRIPLET: "x64-windows"
@@ -684,28 +684,28 @@ events:
       variable: "HAVE_DXGI1_5_H"
       cached: true
       stdout: |
-        Change Dir: 'D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-v58vn4'
+        Change Dir: 'D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-opwue2'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_74149
-        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS  -D_GNU_SOURCE=1 /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_74149.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_74149.dir\\ /FS -c D:\\ProgrammingProjects\\C++\\TrabzonCaydanligi_sh1\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-v58vn4\\CheckIncludeFile.c
-        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_74149.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_74149.dir\\CheckIncludeFile.c.obj  /out:cmTC_74149.exe /implib:cmTC_74149.lib /pdb:cmTC_74149.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_71875
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS  -D_GNU_SOURCE=1 /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_71875.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_71875.dir\\ /FS -c D:\\ProgrammingProjects\\C++\\TrabzonCaydanligi_sh1\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-opwue2\\CheckIncludeFile.c
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_71875.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_71875.dir\\CheckIncludeFile.c.obj  /out:cmTC_71875.exe /implib:cmTC_71875.lib /pdb:cmTC_71875.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
   -
     kind: "try_compile-v1"
     backtrace:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckIncludeFile.cmake:99 (try_compile)"
-      - "libsLocal/SDL3/CMakeLists.txt:2245 (check_include_file)"
+      - "libs/SDL3/CMakeLists.txt:2245 (check_include_file)"
     checks:
       - "Looking for dxgi1_6.h"
     directories:
-      source: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-eigibm"
-      binary: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-eigibm"
+      source: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-a8x7se"
+      binary: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-a8x7se"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
-      CMAKE_MODULE_PATH: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/libsLocal/SDL3/cmake"
+      CMAKE_MODULE_PATH: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/libs/SDL3/cmake"
       VCPKG_INSTALLED_DIR: "C:/vcpkg/installed"
       VCPKG_PREFER_SYSTEM_LIBS: "OFF"
       VCPKG_TARGET_TRIPLET: "x64-windows"
@@ -714,11 +714,11 @@ events:
       variable: "HAVE_DXGI1_6_H"
       cached: true
       stdout: |
-        Change Dir: 'D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-eigibm'
+        Change Dir: 'D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-a8x7se'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_3a6e8
-        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS  -D_GNU_SOURCE=1 /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_3a6e8.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_3a6e8.dir\\ /FS -c D:\\ProgrammingProjects\\C++\\TrabzonCaydanligi_sh1\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-eigibm\\CheckIncludeFile.c
-        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_3a6e8.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_3a6e8.dir\\CheckIncludeFile.c.obj  /out:cmTC_3a6e8.exe /implib:cmTC_3a6e8.lib /pdb:cmTC_3a6e8.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_1d6d8
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS  -D_GNU_SOURCE=1 /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_1d6d8.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_1d6d8.dir\\ /FS -c D:\\ProgrammingProjects\\C++\\TrabzonCaydanligi_sh1\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-a8x7se\\CheckIncludeFile.c
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_1d6d8.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_1d6d8.dir\\CheckIncludeFile.c.obj  /out:cmTC_1d6d8.exe /implib:cmTC_1d6d8.lib /pdb:cmTC_1d6d8.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
   -
@@ -726,17 +726,17 @@ events:
     backtrace:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Internal/CheckSourceCompiles.cmake:108 (try_compile)"
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckCSourceCompiles.cmake:58 (cmake_check_source_compiles)"
-      - "libsLocal/SDL3/CMakeLists.txt:2252 (check_c_source_compiles)"
+      - "libs/SDL3/CMakeLists.txt:2252 (check_c_source_compiles)"
     checks:
       - "Performing Test HAVE_MFAPI_H"
     directories:
-      source: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-76fphe"
-      binary: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-76fphe"
+      source: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-w6rxov"
+      binary: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-w6rxov"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
-      CMAKE_MODULE_PATH: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/libsLocal/SDL3/cmake"
+      CMAKE_MODULE_PATH: "D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/libs/SDL3/cmake"
       VCPKG_INSTALLED_DIR: "C:/vcpkg/installed"
       VCPKG_PREFER_SYSTEM_LIBS: "OFF"
       VCPKG_TARGET_TRIPLET: "x64-windows"
@@ -745,11 +745,11 @@ events:
       variable: "HAVE_MFAPI_H"
       cached: true
       stdout: |
-        Change Dir: 'D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-76fphe'
+        Change Dir: 'D:/ProgrammingProjects/C++/TrabzonCaydanligi_sh1/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-w6rxov'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_63582
-        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_MFAPI_H  /DWIN32 /D_WINDOWS  -D_GNU_SOURCE=1 /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_63582.dir\\src.c.obj /FdCMakeFiles\\cmTC_63582.dir\\ /FS -c D:\\ProgrammingProjects\\C++\\TrabzonCaydanligi_sh1\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-76fphe\\src.c
-        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_63582.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_63582.dir\\src.c.obj  /out:cmTC_63582.exe /implib:cmTC_63582.lib /pdb:cmTC_63582.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_db645
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_MFAPI_H  /DWIN32 /D_WINDOWS  -D_GNU_SOURCE=1 /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_db645.dir\\src.c.obj /FdCMakeFiles\\cmTC_db645.dir\\ /FS -c D:\\ProgrammingProjects\\C++\\TrabzonCaydanligi_sh1\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-w6rxov\\src.c
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_db645.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_db645.dir\\src.c.obj  /out:cmTC_db645.exe /implib:cmTC_db645.lib /pdb:cmTC_db645.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
 ...
