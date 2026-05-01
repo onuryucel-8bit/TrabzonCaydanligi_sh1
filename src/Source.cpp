@@ -1,3 +1,13 @@
+/*
+Piksel cizimi
+Bos ucgen cizimi
+Kare cizimi
+
+
+
+*/
+
+
 #include <iostream>
 
 #include "SDL3/SDL.h"
@@ -46,8 +56,7 @@ void initSDL()
     {
         std::cout << "HATA:: Renderer olusturulamadi\n";
         f_running = false;
-    }
-
+    }    
 }
 
 void inputs()
